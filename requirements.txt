@@ -1,0 +1,14 @@
+numpy
+pandas
+opencv-python
+tensorflow = 2.15.0
+keras = 2.15.0
+
+
+Train with virtual environment python version 3.11.9
+
+
+**Dataset Link from Kaggle**
+https://www.kaggle.com/datasets/ckay16/accident-detection-from-cctv-footage
+
+
